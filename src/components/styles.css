@@ -1,5 +1,12 @@
 .list {
-	width: 500px;
-	margin: 20px auto;
-	padding-top: 24px;
+	/* width: 500px; */
+	margin: 0px 30px;
+	padding-top: 10px;
+}
+
+.list-item {
+}
+
+.list-item.isDone {
+	text-decoration: line-through;
 }
